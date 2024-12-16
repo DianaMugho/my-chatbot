@@ -1,5 +1,6 @@
 nltk
 streamlit
 speechrecognition
+PyAudio==0.2.11
 
 
